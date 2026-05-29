@@ -19,7 +19,7 @@
         "version": 6,
         "internalName": "BilibiliProvider",
         "description": "Bilibili TV - International streaming platform for anime, movies, and variety shows (bilibili.tv)",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/BilibiliProvider.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/BilibiliProvider.cs3",
         "name": "BilibiliProvider"
     },
     {
@@ -40,7 +40,7 @@
         "version": 11,
         "internalName": "CastleTvProvider",
         "description": "Castle TV Movies and Series Provider",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CastleTvProvider.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/CastleTvProvider.cs3",
         "name": "CastleTvProvider"
     },
     {
@@ -60,7 +60,7 @@
         "version": 1,
         "internalName": "DesiSerialsProvider",
         "description": "Desi Serials Tv Shows Provider",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/DesiSerialsProvider.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/DesiSerialsProvider.cs3",
         "name": "DesiSerialsProvider"
     },
     {
@@ -81,7 +81,7 @@
         "version": 59,
         "internalName": "CNC Verse",
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/CNC%20Verse.cs3",
         "name": "CNC Verse"
     },
     {
@@ -102,7 +102,7 @@
         "version": 5,
         "internalName": "CineTvProvider",
         "description": "Clone of Cinema, Memesapp , FilmTV etc",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CineTvProvider.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/CineTvProvider.cs3",
         "name": "CineTvProvider"
     },
     {
@@ -124,11 +124,11 @@
         "version": 5,
         "internalName": "StreamFlixProvider",
         "description": "StreamFlix Multi Language Movies and Series Provider",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/StreamFlixProvider.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/StreamFlixProvider.cs3",
         "name": "StreamFlixProvider"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animedubhindi.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/Animedubhindi.cs3",
         "status": 1,
         "version": 1,
         "name": "Animedubhindi",
@@ -150,7 +150,7 @@
         "fileHash": "sha256-fccec45192a5febf9596067f8706909ff7f396658a3487eb74758617866dbef4"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animesalt.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/Animesalt.cs3",
         "status": 1,
         "version": 7,
         "name": "Animesalt",
@@ -175,7 +175,7 @@
         "jarHash": "sha256-a50194c43c0207944a7a272cc204ea907e1192928e25195d9fa096736c2711b6"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/BanglaPlex.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/BanglaPlex.cs3",
         "status": 1,
         "version": 3,
         "name": "BanglaPlex",
@@ -199,7 +199,7 @@
         "jarHash": "sha256-f86963daa22197f3a893d0595d18b3c94b3c286d2d33843dabcac20c98921f12"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Desicinemas.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/Desicinemas.cs3",
         "status": 1,
         "version": 12,
         "name": "Desicinemas",
@@ -223,7 +223,7 @@
         "jarHash": "sha256-a11faff75a083051c6f4a4c2a543885d5329c2f69f6d8ab24667fe19b513242f"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fibwatch.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/Fibwatch.cs3",
         "status": 1,
         "version": 4,
         "name": "Fibwatch",
@@ -243,7 +243,7 @@
         "fileHash": "sha256-3fa283adc305c2c42718ed295fa43e4a3230650cdb0763106dc71f10f15d9bfd"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/HDhub4u.cs3",
         "status": 1,
         "version": 46,
         "name": "HDhub4u",
@@ -264,7 +264,7 @@
         "fileHash": "sha256-5d2f204405bf052feb1b15b8a5b6260b3a5869d9bc6da2771b63cf724684f604"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movierulzhd.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/Movierulzhd.cs3",
         "status": 1,
         "version": 153,
         "name": "Movierulzhd",
@@ -288,7 +288,7 @@
         "jarHash": "sha256-8c16db964ef9b1b27f8a4cfb640bbddb363ba78e9fbcfdb558a1139cc778c90f"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/MultiMoviesProvider.cs3",
         "status": 1,
         "version": 48,
         "name": "MultiMoviesProvider",
@@ -313,7 +313,7 @@
         "jarHash": "sha256-a9d707523204e8ff7ab231d770d852faf29bbde0031e32cd6f7c12ef05171bea"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Piratexplay.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/Piratexplay.cs3",
         "status": 1,
         "version": 1,
         "name": "Piratexplay",
@@ -338,7 +338,7 @@
         "jarHash": "sha256-0ac28678cb39e7a1c02c9cf53567c906f13b3f68e935ffde69ac1cc094abefbf"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Topcartoons.cs3",
+        "url": "https://raw.githubusercontent.com/shadshuvo/build/main/cs3/Topcartoons.cs3",
         "status": 1,
         "version": 2,
         "name": "Topcartoons",
